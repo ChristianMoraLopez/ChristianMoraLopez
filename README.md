@@ -1,54 +1,52 @@
-## Hi there! 👋
 
-![Mano saludando](https://raw.githubusercontent.com/ChristianMoraLopez/ChristianMoraLopez/refs/heads/main/manosaluda.gif)
-
-# Bienvenido a mi GitHub! 👋
 
 ![GitHub Animation](https://raw.githubusercontent.com/ChristianMoraLopez/ChristianMoraLopez/refs/heads/main/github.gif)
 
-Soy **Christian Mora**, un desarrollador de software y entusiasta de los datos. Me encanta programar, resolver problemas y romper cosas (para luego arreglarlas). Si te interesa el desarrollo web, las bases de datos o simplemente un poco de caos tecnológico, ¡has llegado al lugar correcto!
+# Welcome to My GitHub! 
+## Hi there! ![Waving Hand](https://raw.githubusercontent.com/ChristianMoraLopez/ChristianMoraLopez/refs/heads/main/manosaluda.gif)
+I'm **Christian Mora**, a software developer and data enthusiast. I love coding, solving problems, and breaking things (only to fix them later). If you're into web development, databases, or just some good ol' tech chaos, you've come to the right place!
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### Frontend:
-- 🚀 **React.js** (Porque JavaScript puro era demasiado simple)
-- 🎨 **Next.js** (Para cuando React necesita un poco más de magia)
-- 💨 **Tailwind CSS** (CSS pero más estilizado y fácil)
-- 🅱 **Bootstrap** (Antiguo pero confiable para diseños rápidos)
-- ⚛️ **Redux** (Porque gestionar estados es como pastorear gatos)
+- 🚀 **React.js** (Because vanilla JavaScript was too mainstream)
+- 🎨 **Next.js** (For when React needs a little extra magic)
+- 💨 **Tailwind CSS** (CSS but make it stylish and easy)
+- 🅱 **Bootstrap** (Old but gold for quick layouts)
+- ⚛️ **Redux** (Because managing state is like herding cats)
 
 #### Backend:
-- 🐘 **PostgreSQL** (Porque SQL sigue siendo genial)
-- 🏗 **Laravel** (PHP pero elegante)
-- ☕ **Spring Boot** (Java en el backend con cafeína extra)
-- 🛠 **Node.js + Express** (Para cuando quieres JavaScript en ambos lados)
+- 🐘 **PostgreSQL** (Because SQL is still cool)
+- 🏗 **Laravel** (PHP but make it elegant)
+- ☕ **Spring Boot** (Java backend with some serious caffeine)
+- 🛠 **Node.js + Express** (For when you want JavaScript on both sides)
 
 ---
 
-### 🔥 ¿Qué encontrarás aquí?
-- 🚀 Proyectos de código abierto
-- 🧪 Experimentos aleatorios
-- 🔮 Magia en el backend
-- ✨ Hechicería en el frontend
-- 🤦‍♂️ Correcciones de bugs que me hacen cuestionar mis decisiones
+### 🔥 What You'll Find Here:
+- 🚀 Open-source projects
+- 🧪 Random experiments
+- 🔮 Backend wizardry
+- ✨ Frontend sorcery
+- 🤦‍♂️ Bug fixes that make me question my life choices
 
 ---
 
-### 📫 Contáctame
+### 📫 Contact Me
 - 📧 **Email:** christianmoralopez@hotmail.com
-- 🌍 **Portafolio:** Mi página de GitHub
-- 💼 **LinkedIn:** [Conéctate conmigo](#)
-- ☕ **Apóyame:** [Buy Me a Coffee](https://buymeacoffee.com/christianmora)
+- 🌍 **Portfolio:** My GitHub Page
+- 💼 **LinkedIn:** [Connect with me](#)
+- ☕ **Support me:** [Buy Me a Coffee](https://buymeacoffee.com/christianmora)
 
 ![Buy Me a Coffee](https://raw.githubusercontent.com/ChristianMoraLopez/ChristianMoraLopez/refs/heads/main/coffe.png)
 
-Gracias por pasarte por aquí. No olvides dejar una ⭐ si te gusta lo que ves. ¡Feliz programación! 😎
+Thanks for stopping by! Don't forget to leave a ⭐ if you like what you see. Happy coding! 😎
 
 ---
 
-### 🌍 Idiomas
-- 🇪🇸 **Español (Nativo)**
-- 🇬🇧 **Inglés (Conversacional)**
+### 🌍 Languages
+- 🇪🇸 **Spanish (Native)**
+- 🇬🇧 **English (Conversational)**
 
