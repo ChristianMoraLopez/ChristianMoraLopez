@@ -1,11 +1,9 @@
-## Hi there! 👋
+## Hi there! <img src="https://raw.githubusercontent.com/ChristianMoraLopez/ChristianMoraLopez/refs/heads/main/manosaluda.gif" width="100" />
 
-<img src="https://raw.githubusercontent.com/ChristianMoraLopez/ChristianMoraLopez/refs/heads/main/manosaluda.gif" width="100" />
-
-# Welcome to My GitHub! 👋
 
 <img src="https://raw.githubusercontent.com/ChristianMoraLopez/ChristianMoraLopez/refs/heads/main/github.gif" width="100" />
 
+# Welcome to My GitHub! 👋
 I'm **Christian Mora**, a software developer and data enthusiast. I love coding, solving problems, and breaking things (only to fix them later). If you're into web development, databases, or just some good ol' tech chaos, you've come to the right place!
 
 ---
