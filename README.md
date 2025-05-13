@@ -37,7 +37,7 @@ I'm **Christian Mora**, a software developer and data enthusiast. I love coding,
 ### 📫 Contact Me
 - 📧 **Email:** christianmoralopez@hotmail.com
 - 🌍 **Portfolio:** My GitHub Page
-- 💼 **LinkedIn:** [Connect with me](#)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/christian-moral/)
 - ☕ **Support me:** [Buy Me a Coffee](https://buymeacoffee.com/christianmora)
 
 [![Buy Me a Coffee](https://raw.githubusercontent.com/ChristianMoraLopez/ChristianMoraLopez/refs/heads/main/coffe.png)](https://buymeacoffee.com/christianmora)
