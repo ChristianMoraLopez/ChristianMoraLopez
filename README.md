@@ -1,52 +1,59 @@
-## Hi there! <img src="https://raw.githubusercontent.com/ChristianMoraLopez/ChristianMoraLopez/refs/heads/main/manosaluda.gif" width="100" />
+<h1 align="center">Hi, I'm Christian Mora 👋</h1>
 
-# Welcome to My GitHub! 👋
+<p align="center">
+  <strong>Software Engineer · Forward Deployed Engineer · Agentic AI Builder</strong>
+</p>
 
-<img src="https://raw.githubusercontent.com/ChristianMoraLopez/ChristianMoraLopez/refs/heads/main/github.gif" width="100" />
+<p align="center">
+  I turn ambiguous business problems into practical, production-ready software—working closely with users and teams from discovery through deployment.
+</p>
 
-I'm **Christian Mora**, a software developer and data enthusiast. I love coding, solving problems, and breaking things (only to fix them later). If you're into web development, databases, or just some good ol' tech chaos, you've come to the right place!
+## About me
+
+I'm a software engineer based in Colombia with experience across frontend, backend, data, and integrations. I enjoy operating at the intersection of product and engineering: understanding real workflows, shipping useful solutions quickly, and iterating with the people who use them.
+
+My current focus is building **agentic systems** and AI-enabled tools that connect language models with business data, APIs, and human workflows.
+
+## What I do
+
+- Build end-to-end web applications and backend services
+- Design and deploy agentic workflows with tools, retrieval, and integrations
+- Work alongside customers and cross-functional teams to solve high-impact problems
+- Translate complex operational needs into reliable, maintainable software
+- Prototype quickly, validate in real environments, and take solutions to production
+
+## Technologies
+
+**AI & agentic systems**  
+LLM applications · Agent workflows · Tool / function calling · Retrieval-augmented generation (RAG) · API integrations · Evaluation and iteration
+
+**Frontend**  
+React · Next.js · JavaScript · Redux · Tailwind CSS · Bootstrap
+
+**Backend & data**  
+Node.js · Express · Laravel · Spring Boot · PostgreSQL
+
+**Engineering**  
+REST APIs · Git & GitHub · Full-stack development · Debugging · System integration
+
+## What you'll find here
+
+- Full-stack applications and backend services
+- Experiments with AI, agentic workflows, and integrations
+- Product prototypes built around real user problems
+- Learning projects and technical explorations
+
+## Let's connect
+
+- 📧 [christianmoralopez@hotmail.com](mailto:christianmoralopez@hotmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/christian-moral/)
+- 🌐 [GitHub](https://github.com/ChristianMoraLopez)
+
+## Languages
+
+- 🇪🇸 Spanish — Native
+- 🇬🇧 English — Conversational
 
 ---
 
-### 🛠️ Tech Stack
-
-#### Frontend:
-- 🚀 **React.js** (Because vanilla JavaScript was too mainstream)
-- 🎨 **Next.js** (For when React needs a little extra magic)
-- 💨 **Tailwind CSS** (CSS but make it stylish and easy)
-- 🅱 **Bootstrap** (Old but gold for quick layouts)
-- ⚛️ **Redux** (Because managing state is like herding cats)
-
-#### Backend:
-- 🐘 **PostgreSQL** (Because SQL is still cool)
-- 🏗 **Laravel** (PHP but make it elegant)
-- ☕ **Spring Boot** (Java backend with some serious caffeine)
-- 🛠 **Node.js + Express** (For when you want JavaScript on both sides)
-
----
-
-### 🔥 What You'll Find Here:
-- 🚀 Open-source projects
-- 🧪 Random experiments
-- 🔮 Backend wizardry
-- ✨ Frontend sorcery
-- 🤦‍♂️ Bug fixes that make me question my life choices
-
----
-
-### 📫 Contact Me
-- 📧 **Email:** christianmoralopez@hotmail.com
-- 🌍 **Portfolio:** My GitHub Page
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/christian-moral/)
-- ☕ **Support me:** [Buy Me a Coffee](https://buymeacoffee.com/christianmora)
-
-[![Buy Me a Coffee](https://raw.githubusercontent.com/ChristianMoraLopez/ChristianMoraLopez/refs/heads/main/coffe.png)](https://buymeacoffee.com/christianmora)
-
-Thanks for stopping by! Don't forget to leave a ⭐ if you like what you see. Happy coding! 😎
-
----
-
-### 🌍 Languages
-- 🇪🇸 **Spanish (Native)**
-- 🇬🇧 **English (Conversational)**
-
+Thanks for visiting. Feel free to explore my projects or get in touch to collaborate!
